@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--App's name. [CHAR LIMIT=NONE]-->
+
+    <!--Name hint in EditText. [CHAR LIMIT=NONE]-->
+    <string name="name_hint">Name</string>
+
+    <!--Toppings heading. [CHAR LIMIT=NONE]-->
+
+    <!--Whipped cream CheckBox text. [CHAR LIMIT=NONE]-->
+    <string name="whipped_cream">Schlagsahne</string>
+
+    <!--Chocolate CheckBox text. [CHAR LIMIT=NONE]-->
+    <string name="chocolate">Schokolade</string>
+
+    <!--Quantity heading. [CHAR LIMIT=NONE]-->
+    <string name="quantity">Anzahl</string>
+
+    <!--Decrement button text. [CHAR LIMIT=NONE]-->
+
+    <!--Quantity value shown. [CHAR LIMIT=1]-->
+
+    <!--Increment button text. [CHAR LIMIT=1]-->
+
+    <!--Order Summary heading. [CHAR LIMIT=NONE]-->
+    <string name="order_summary">Bestellübersicht</string>
+
+    <!--Price of order. [CHAR LIMIT=NONE]-->
+
+    <!--Order button text. [CHAR LIMIT=NONE]-->
+    <string name="order">Auftrag</string>
+
+</resources>

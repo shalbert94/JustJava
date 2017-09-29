@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name" translatable="false">Just Java</string>
+
+    <!--Name hint in EditText. [CHAR LIMIT=20]-->
+    <string name="name_hint">Name</string>
+
+    <!--Toppings heading -->
+    <string name="toppings" translatable="false">Toppings</string>
+
+    <!--Whipped cream CheckBox text-->
+    <string name="whipped_cream">Whipped Cream</string>
+
+    <!--Chocolate CheckBox text-->
+    <string name="chocolate">Chocolate</string>
+
+    <!--Quantity heading-->
+    <string name="quantity">Quantity</string>
+
+    <!--Decrement button text-->
+    <string name="decrement_quantity" translatable="false">-</string>
+
+    <!--Quantity value shown-->
+    <string name="quantity_value" translatable="false">0</string>
+
+    <!--Increment button text-->
+    <string name="increment" translatable="false">+</string>
+
+    <!--Order Summary heading-->
+    <string name="order_summary">Order Summary</string>
+
+    <!--Price of order-->
+    <string name="order_price" translatable="false">$0</string>
+
+    <!--Order button text-->
+    <string name="order">Order</string>
+
+</resources>
